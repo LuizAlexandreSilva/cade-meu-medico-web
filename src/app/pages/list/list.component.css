@@ -1,0 +1,9 @@
+.bg-light {
+  background-color: #8cf9dc !important;
+}
+
+.card-item {
+  background-color: #91e7f3;
+  border-radius: 16px;
+  padding: 8px 16px;
+}
